@@ -240,9 +240,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pathHolder: {fileID: 9082620093885259026}
-  speed: 5
+  speed: 8
   waitTime: 0.3
-  turnSpeed: 90
+  turnSpeed: 150
   spotlight: {fileID: 9082620093825109281}
   viewDistance: 8.35
   viewMask:
