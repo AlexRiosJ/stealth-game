@@ -4,7 +4,7 @@
 QualitySettings:
   m_ObjectHideFlags: 0
   serializedVersion: 5
-  m_CurrentQuality: 4
+  m_CurrentQuality: 5
   m_QualitySettings:
   - serializedVersion: 2
     name: Very Low
@@ -148,7 +148,7 @@ QualitySettings:
     excludedTargetPlatforms: []
   - serializedVersion: 2
     name: Very High
-    pixelLightCount: 20
+    pixelLightCount: 4
     shadows: 2
     shadowResolution: 2
     shadowProjection: 1
@@ -183,7 +183,7 @@ QualitySettings:
     excludedTargetPlatforms: []
   - serializedVersion: 2
     name: Ultra
-    pixelLightCount: 4
+    pixelLightCount: 20
     shadows: 2
     shadowResolution: 2
     shadowProjection: 1
@@ -224,7 +224,7 @@ QualitySettings:
     PSP2: 2
     Standalone: 5
     Tizen: 2
-    WebGL: 3
+    WebGL: 5
     WiiU: 5
     Windows Store Apps: 5
     XboxOne: 5
